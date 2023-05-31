@@ -1,0 +1,26 @@
+/* Write your CSS here */
+/* .bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+} */
+.h1 {
+  text-align: center;
+  margin: 0;
+  color: skyblue;
+}
+.bg {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+
+  justify-content: center;
+}
+button {
+  height: 30px;
+  background-color: red;
+  font-size: 30px;
+}
